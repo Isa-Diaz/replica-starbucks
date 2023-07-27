@@ -1,0 +1,79 @@
+.conteiner{
+   background-color: #ffffff; 
+   height: 8vw;
+   display: flex;
+   font-family: "Lato";
+   
+}
+
+.logo{
+    margin-top: 25px;
+    height: 65px;
+    width: 60px;
+    margin-left: 40px;
+}
+.lista-menu{
+    display: flex;
+    justify-content: space-between;
+    padding: 2em;
+}
+.menu{
+    display: flex;
+    align-items: center;
+}
+.itens{
+    padding: 1em;
+    font-weight: 700;
+    font-size: 13px;
+}
+
+.login{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.historia{
+    margin-top: -60px;
+    height: 120px;
+    width: 120px;
+    margin-left: 200px;
+}
+
+.icone{
+    margin-top: -10px;
+    height: 20px;
+    width: 20px;
+    margin-left: 10px;
+}
+
+.entrar{
+    margin-left: 25px;
+    margin-top: -20px;
+    width: 80px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: #ffffff;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: "Lato";
+}
+.participe{
+    margin-left: 15px;
+    margin-top: -20px;
+    width: 140px;
+    height: 40px;
+    border-radius: 30px;
+    color:#ffffff;
+    background-color: black;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: "Lato";
+}
+.encontre{
+    margin-top: -10px;
+    margin-left: 10px;
+    font-size: 15px;
+    font-family: "Lato";
+    font-weight: 540;
+}
